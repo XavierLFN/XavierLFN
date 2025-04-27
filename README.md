@@ -4,7 +4,7 @@
 **XavierLFN/XavierLFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🔭 Atualmente procuro emprego
+- 🔭 Atualmente pretendo terminar meu estudo e procurar emprego
 - 🌱 Atualmente estudo Java (javaFX, android), C# (console), PHP, Sql
 - 👯 Quero adquirir experiencia em projetos Scrum ou XP
 - 🤔 Procuro ajuda com PHP
