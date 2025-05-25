@@ -6,10 +6,10 @@
 Here are some ideas to get you started:-->
 - 📗 estudo no CEDUP Abílio Paulo |Criciúma, SC| 3º ano (2025)
 - 🔭 Atualmente pretendo terminar meu estudo e procurar emprego
-- 🌱 Atualmente estudo Java (javaFX, android), C# (console), PHP, Sql
+- 🌱 Atualmente estudo Java (javaFX, android), python (console), PHP, javascript, SQL
 - 👯 Quero adquirir experiencia em projetos Scrum ou XP
-- 🤔 Procuro ajuda com PHP
-- 📫 Como me achar meu e-mail: luisfilipexaviernascimento@gmail.com
+- 🤔 Procuro ajuda com python
+- 📫 Como me achar, meu e-mail: luisfilipexaviernascimento@gmail.com
 - 🚹 Pronomes: ele/dele
 ##
 
